@@ -1,0 +1,10 @@
+{
+	"identifier": "log-group",
+	"about": {
+		"title": "Log Group",
+		"explanation": "An elementary blueprint for defining an AWS CloudWatch Log Group"
+	},
+	"compute_service": {
+		"default": {"identifier": "log_group"}
+	}
+}
